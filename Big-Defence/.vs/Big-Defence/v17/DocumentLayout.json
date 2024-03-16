@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\3. enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\3. enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|c:\\users\\copom\\unity\\big-defence\\big-defence\\assets\\1. scripts\\1. controller\\towercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\1. controller\\towercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\1. controller\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\1. controller\\tilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\0. manager\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\0. manager\\tilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\0. manager\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\0. manager\\towermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\0. manager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\0. manager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\0. manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\0. manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\assets\\1. scripts\\2. tower\\arrowtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1B9EF2-BBE5-26BD-12C5-986F835DFF65}|Assembly-CSharp.csproj|solutionrelative:assets\\1. scripts\\2. tower\\arrowtower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TowerManager.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\TowerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\0. Manager\\TowerManager.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\TowerManager.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\0. Manager\\TowerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:01:19.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrowTower.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\2. Tower\\ArrowTower.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\2. Tower\\ArrowTower.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\2. Tower\\ArrowTower.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\2. Tower\\ArrowTower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T14:39:35.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TileManager.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\TileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\0. Manager\\TileManager.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\TileManager.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\0. Manager\\TileManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T09:54:15.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\3. Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\3. Enemy\\Enemy.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\3. Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\3. Enemy\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:18:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\0. Manager\\InputManager.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\InputManager.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\0. Manager\\InputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:28:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TowerController.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\1. Controller\\TowerController.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\1. Controller\\TowerController.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\1. Controller\\TowerController.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\1. Controller\\TowerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:13:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\0. Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\0. Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\0. Manager\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:52:10.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileController.cs",
+              "DocumentMoniker": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\1. Controller\\TileController.cs",
+              "RelativeDocumentMoniker": "Assets\\1. Scripts\\1. Controller\\TileController.cs",
+              "ToolTip": "C:\\Users\\copom\\Unity\\Big-Defence\\Big-Defence\\Assets\\1. Scripts\\1. Controller\\TileController.cs",
+              "RelativeToolTip": "Assets\\1. Scripts\\1. Controller\\TileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:30:55.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
